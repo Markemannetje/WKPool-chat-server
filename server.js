@@ -14,7 +14,7 @@ const io = new Server(httpServer, {
 
 // 1. DATABASE CONFIGURATIE (Neem deze handmatig over uit je config.php)
 const dbConfig = {
-  host: 'localhost',       
+  host: 'srv040093.webreus.net',       
   user: 'markemannetje',
   password: 'mjerkie2014',
   database: 'markemannetje'
